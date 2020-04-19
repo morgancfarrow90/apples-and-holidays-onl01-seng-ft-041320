@@ -77,7 +77,6 @@ holiday_hash.map do |season, holiday|
     end
   end.flatten.compact
 end
-end
 
 
 
